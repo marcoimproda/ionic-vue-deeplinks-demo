@@ -1,0 +1,13 @@
+{
+    "appId": "io.ionic.deeplinks",
+    "appName": "deeplinks-demo-ionic-vue",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "dist",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}

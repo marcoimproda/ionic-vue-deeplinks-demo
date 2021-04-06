@@ -1,0 +1,7 @@
+{
+  "name": "deeplinks-demo-ionic-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
